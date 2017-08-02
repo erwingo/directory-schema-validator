@@ -1,6 +1,5 @@
 
 # TODO
-- ability to abstract common rules so we can make them shareable
 - Examples
   - Provide some folder examples:
     * examples/basic
@@ -10,6 +9,7 @@
 - allow rules to be exclusive
 
 # DONE
+- ability to abstract common rules so we can make them shareable
 - test the public api
 - it should throw if no config file found
 - license
